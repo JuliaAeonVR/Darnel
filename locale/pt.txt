@@ -26,6 +26,11 @@ videolevel_7DB724D9_6F66_B580_41D8_11120F8AA4BD.url = media/video_7D2C6014_6F62_
 
 ### Video Subtitles
 
+## Skin
+
+### Image
+Image_60DF7445_6FAD_A0D1_41D2_4ACD4B7FF517.url = skin/Image_60DF7445_6FAD_A0D1_41D2_4ACD4B7FF517_pt.png
+
 ## Tour
 
 ### Description
